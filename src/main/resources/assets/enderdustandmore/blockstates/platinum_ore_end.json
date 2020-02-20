@@ -1,0 +1,10 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "enderdustandmore:platinum_ore_end"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "enderdustandmore:ender_ore_end"
+  },
+  "variants": {
+    "lit": {
+      "true": {},
+      "false": {}
+    },
+    "inventory": [{}]
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "description": "Meta format 3 should be used for 1.11 and 1.12.",
+        "pack_format": 3
+    }
+}

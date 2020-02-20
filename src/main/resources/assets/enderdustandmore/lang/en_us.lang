@@ -1,0 +1,85 @@
+# Blocks
+tile.enderdustandmore.ender_ore.name=Ender Ore
+tile.enderdustandmore.ender_ore_nether.name=Ender Ore
+tile.enderdustandmore.ender_ore_end.name=Ender Ore
+tile.enderdustandmore.ender_block.name=Ender Block
+tile.enderdustandmore.platinum_ore.name=Platinum Ore
+tile.enderdustandmore.platinum_ore_nether.name=Platinum Ore
+tile.enderdustandmore.platinum_ore_end.name=Platinum Ore
+tile.enderdustandmore.platinum_block.name=Platinum Block
+tile.enderdustandmore.mysterious_torch.name=Mysterious Torch
+
+# Items
+item.enderdustandmore.ender_dust.name=Ender Dust
+item.enderdustandmore.ender_nugget.name=Ender Nugget
+item.enderdustandmore.ender_ingot.name=Ender Ingot
+item.enderdustandmore.platinum_dust.name=Platinum Dust
+item.enderdustandmore.platinum_nugget.name=Platinum Nugget
+item.enderdustandmore.platinum_ingot.name=Platinum Ingot
+item.enderdustandmore.obsidian_rod.name=Obsidian Rod
+item.enderdustandmore.divine_rod.name=Divine Rod
+item.enderdustandmore.divine_hammer_head.name=Divine Hammer Head
+item.enderdustandmore.divine_hammer.name=§5§oProxy's Divine Hammer
+
+# Ender Tools
+item.enderdustandmore.ender_sword.name=Ender Sword
+item.enderdustandmore.ender_pickaxe.name=Ender Pickaxe
+item.enderdustandmore.ender_shovel.name=Ender Shovel
+item.enderdustandmore.ender_axe.name=Ender Axe
+item.enderdustandmore.ender_hoe.name=Ender Hoe
+
+# Platinum Tools
+item.enderdustandmore.platinum_sword.name=Platinum Sword
+item.enderdustandmore.platinum_pickaxe.name=Platinum Pickaxe
+item.enderdustandmore.platinum_shovel.name=Platinum Shovel
+item.enderdustandmore.platinum_axe.name=Platinum Axe
+item.enderdustandmore.platinum_hoe.name=Platinum Hoe
+
+# Ender Armor
+item.enderdustandmore.ender_helmet.name=Ender Helmet
+item.enderdustandmore.ender_chestplate.name=Ender Chestplate
+item.enderdustandmore.ender_leggings.name=Ender Leggings
+item.enderdustandmore.ender_boots.name=Ender Boots
+
+# Platinum Armor
+item.enderdustandmore.platinum_helmet.name=Platinum Helmet
+item.enderdustandmore.platinum_chestplate.name=Platinum Chestplate
+item.enderdustandmore.platinum_leggings.name=Platinum Leggings
+item.enderdustandmore.platinum_boots.name=Platinum Boots
+
+# Misc
+itemGroup.enderdustandmore=Ender Dust And More
+
+# Config Categories
+enderdustandmore.config.overworldOres=Overworld
+enderdustandmore.config.netherOres=Nether
+enderdustandmore.config.endOres=The End
+enderdustandmore.config.miscConfig=Miscellaneous
+
+# Ender Ore Config
+enderdustandmore.config.enderOreGen=Ender Ore generation
+enderdustandmore.config.enderOreChance=Ender Ore frequency in chunks
+enderdustandmore.config.enderOreMinY=Minimum Ender Ore spawn height
+enderdustandmore.config.enderOreMaxY=Maximum Ender Ore spawn height
+enderdustandmore.config.enderOreMinVein=Minimum Ender Ore cluster size
+enderdustandmore.config.enderOreMaxVein=Maximum Ender Ore cluster size
+enderdustandmore.config.endermanSpawn=Enderman spawn chance
+
+# Platinum Ore Config
+enderdustandmore.config.platinumOreGen=Platinum Ore generation
+enderdustandmore.config.platinumOreChance=Platinum Ore frequency in chunks
+enderdustandmore.config.platinumOreMinY=Minimum Platinum Ore spawn height
+enderdustandmore.config.platinumOreMaxY=Maximum Platinum Ore spawn height
+enderdustandmore.config.platinumOreMinVein=Minimum Platinum Ore cluster size
+enderdustandmore.config.platinumOreMaxVein=Maximum Platinum Ore cluster size
+
+# Misc Config
+enderdustandmore.config.fakePlayerSpawnEnderman=Should fake players spawn Endermen?
+enderdustandmore.config.endermanSpawn=Enderman spawn chance
+enderdustandmore.config.divineHammerAttackDisabled=Is Proxy's Divine Hammer attack disabled?
+enderdustandmore.config.smiteFail=Smite failure chance
+enderdustandmore.config.smiteRange=Smite range
+
+enderdustandmore.smite.msg=§5§oMaybe you shouldn't be playing with this...
+enderdustandmore.smite.protect=§9§oThe heavens refuse to strike upon protected lands!
+enderdustandmore.smite.disabled=§4§oThe smite action has been disabled via config please enable it or beg the nice server people to turn it on :D

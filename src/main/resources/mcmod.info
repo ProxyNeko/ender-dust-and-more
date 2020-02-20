@@ -1,0 +1,16 @@
+[
+{
+  "modid": "enderdustandmore",
+  "name": "Ender Dust And More",
+  "description": "Want more enderpearls? Don't bother looking for em go craft em with ender! Makes it so much easier.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://proxyneko.github.com",
+  "updateUrl": "https://www.curseforge.com/minecraft/mc-mods/ender-dust-and-more",
+  "authorList": ["ProxyNeko"],
+  "credits": "ProxyNeko",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

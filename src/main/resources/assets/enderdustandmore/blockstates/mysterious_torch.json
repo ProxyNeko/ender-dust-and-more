@@ -1,0 +1,75 @@
+{
+  "forge_marker": 1,
+  "variants": {
+    "facing=up_z,powered=false": { "model": "enderdustandmore:mysterious_torch"
+    },
+    "facing=up_x,powered=false": { "model": "enderdustandmore:mysterious_torch"
+    },
+    "facing=down_z,powered=false": {
+      "model": "enderdustandmore:mysterious_torch",
+      "transform": { "rotation": { "x": 180 } }
+    },
+    "facing=down_x,powered=false": {
+      "model": "enderdustandmore:mysterious_torch",
+      "transform": { "rotation": { "x": 180 } }
+    },
+    "facing=east,powered=false": {
+      "model": "enderdustandmore:mysterious_torch_wall"
+    },
+
+    "facing=west,powered=false": {
+      "model": "enderdustandmore:mysterious_torch_wall",
+      "transform": { "rotation": { "y": 180 } }
+    },
+
+    "facing=south,powered=false": {
+      "model": "enderdustandmore:mysterious_torch_wall",
+      "transform": { "rotation": { "y": -90 } }
+    },
+
+    "facing=north,powered=false": {
+      "model": "enderdustandmore:mysterious_torch_wall",
+      "transform": { "rotation": { "y": 90 } }
+    },
+
+    "facing=up_z,powered=true": {
+      "model": "enderdustandmore:mysterious_torch_wall",
+      "transform": { "rotation": [ { "z": 90 }, { "x": -90 } ], "translation": [ 0, 0, -0.25 ] }
+    },
+
+    "facing=up_x,powered=true": {
+      "model": "enderdustandmore:mysterious_torch_wall",
+      "transform": { "rotation": { "z": 90 }, "translation": [ -0.25, 0, 0 ] }
+    },
+
+    "facing=down_z,powered=true": {
+      "model": "enderdustandmore:mysterious_torch_wall",
+      "transform": { "rotation": [ { "z": -90 }, { "x": -90 } ], "translation": [ 0, 0, -0.25 ] }
+    },
+
+    "facing=down_x,powered=true": {
+      "model": "enderdustandmore:mysterious_torch_wall",
+      "transform": { "rotation": [ { "z": -90 }, { "x": 180 } ], "translation": [ -0.25, 0, 0 ] }
+    },
+
+    "facing=east,powered=true": {
+      "model": "enderdustandmore:mysterious_torch",
+      "transform": { "rotation": { "z": -90 }, "translation": [ 0, -0.25, 0 ] }
+    },
+
+    "facing=west,powered=true": {
+      "model": "enderdustandmore:mysterious_torch",
+      "transform": { "rotation": { "z": 90 }, "translation": [ 0, -0.25, 0 ] }
+    },
+
+    "facing=south,powered=true": {
+      "model": "enderdustandmore:mysterious_torch",
+      "transform": { "rotation": { "x": 90 }, "translation": [ 0, -0.25, 0 ] }
+    },
+
+    "facing=north,powered=true": {
+      "model": "enderdustandmore:mysterious_torch",
+      "transform": { "rotation": { "x": -90 }, "translation": [ 0, -0.25, 0 ] }
+    }
+  }
+}
